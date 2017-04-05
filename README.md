@@ -10,3 +10,6 @@
 
 Первый график
 ![alt text](https://github.com/SergeyMikhaylov21/Python_Homeworks/blob/master/Comment_plot.png)
+
+Второй график
+![alt text](https://github.com/SergeyMikhaylov21/Python_Homeworks/blob/master/Post_plot.png)
