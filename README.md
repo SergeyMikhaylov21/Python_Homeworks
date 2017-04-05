@@ -7,3 +7,6 @@
 
 ### Графики для задания про API VK
 Мною обрабатывался один известный паблик, претендующий на "нестандартный" юмор
+
+Первый график
+![alt text](https://github.com/SergeyMikhaylov21/Python_Homeworks/blob/master/Comment_plot.png)
