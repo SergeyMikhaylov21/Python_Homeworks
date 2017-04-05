@@ -13,3 +13,6 @@
 
 Второй график
 ![alt text](https://github.com/SergeyMikhaylov21/Python_Homeworks/blob/master/Post_plot.png)
+
+Третий график
+![alt text](https://github.com/SergeyMikhaylov21/Python_Homeworks/blob/master/Age_Words_plot.png)
