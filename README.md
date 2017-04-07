@@ -16,3 +16,9 @@
 
 Третий график
 ![alt text](https://github.com/SergeyMikhaylov21/Python_Homeworks/blob/master/Age_Words_plot.png)
+
+
+Что касается получения токена, то пользоваться gitignore не пришлось. Программу для получения токена я выложил (VK_API_getting_token), а подробное описание этого способа получения токена доступа находится вот [здесь](http://old.pynsk.ru/posts/2015/Nov/26/api-vsemu-golova-vkontakte-ot-nachala-do-otpravki-soobshcheniia-drugu/#.WOeJR_mLTIV). 
+
+Четвертый график
+![alt text](https://github.com/SergeyMikhaylov21/Python_Homeworks/blob/master/Chat_Members_plot.png)
