@@ -22,3 +22,8 @@
 
 Четвертый график
 ![alt text](https://github.com/SergeyMikhaylov21/Python_Homeworks/blob/master/Chat_Members_plot.png)
+
+
+### Задание про загрузку комментариев из VK в базу данных
+В качестве целевого сообщества был выбран паблик ["Новой газеты"](https://vk.com/novgaz)
+А вот сама [база данных](https://yadi.sk/d/ySvxHV3k3HBwbn) комментариев.
